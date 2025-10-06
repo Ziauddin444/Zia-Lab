@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pytest
+streamlit
+flake8
+mypy
